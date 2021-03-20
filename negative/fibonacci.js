@@ -13,4 +13,4 @@ console.log(fibonaccis_reversed)
 
 // next 2 lines not needed for node.js
 let div = document.getElementById('fibonaccis')
-div.innerhtml = fibonaccis_reversed;
+div.innerHTML = fibonaccis_reversed.join('<br>');
