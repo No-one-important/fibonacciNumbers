@@ -1,6 +1,6 @@
 import sys
 
-sys.setrecursionlimit(1500)
+sys.setrecursionlimit(15000)
 
 fibonaccis = {}
 
